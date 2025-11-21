@@ -1,0 +1,39 @@
+# ==== Visual Studio / .NET ====
+[Bb]in/
+[Oo]bj/
+.vs/
+*.user
+*.suo
+*.cache
+*.ide
+
+# 構成別ビルドフォルダ
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# NuGet
+packages/
+*.nupkg
+!packages.config   # ← これは残す
+
+# エディタ
+.vscode/
+.idea/
+
+# ログ・一時
+*.log
+
+# OSごみ
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+env/
+build/
+dist/
