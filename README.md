@@ -35,6 +35,14 @@ While standard Confluence backup files require setting up a local server environ
 this application enables restoration of approximately 90% of the data, including revision history.
 
 ## Usage
+
+
+
+https://github.com/user-attachments/assets/06cf6bcd-7c35-4015-b5e2-6572ede4a46e
+
+https://github.com/user-attachments/assets/bc921688-05b5-4636-9a84-bd5ca8475e53
+
+
 1. アプリケーションを起動したらロゴが表示されることを確認してください．
 2. ウィンドウに直接ConfluenceのバックアップZipファイルをドラッグアンドドロップすると変換が開始します．  
    参照ボタンからファイル指定をした上で変換を実施しても実施可能です．
@@ -44,7 +52,7 @@ this application enables restoration of approximately 90% of the data, including
 5. 変換が完了すると『YYYYMMDDhhmm_ファイル名』の形式で出力結果フォルダが作成されます．  
    出力場所はバックアップZipファイルと同じ階層になります．
 6. 変換された情報はindex.htmlから閲覧できるほか，添付ファイルは階層ごとにフォルダ分けされて格納されます．
-7. 
+
 ----------------------------------------------------------------------------------------------------
 1. After launching the application, verify that the logo appears.  
 2. Drag and drop the Confluence backup ZIP file directly into the window to start conversion.  
