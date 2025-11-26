@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/language-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![version](https://img.shields.io/badge/version-3.10.8-3776AB?style=flat-square&logo=python&logoColor=white)
 
-<img width="1381" height="451" alt="Header_logo_large" src="https://github.com/user-attachments/assets/aaf74a19-d520-46de-a40e-520abc0c679d" />
+<img width="1381" height="1000" alt="Header_logo_large2" src="https://github.com/user-attachments/assets/a8365560-3891-4b35-a52e-123a1c412f59" />
 
 
 ## Download
@@ -15,7 +15,7 @@
   />
 </a>
 <br>
-<a href="https://www.dropbox.com/scl/fi/cguqt5sppbx231t4cm961/Ajust-Image-Converter.zip?rlkey=r7d0n6e5fljcepq7mb2njmgan&st=oqsddfgy&dl=1">
+<a href="https://uu.getuploader.com/freehack/download/197">
   <img
     src="https://raw.githubusercontent.com/Sadc2h4/brand-assets/main/button/Download_Button_2.png"
     alt="Download .zip"
