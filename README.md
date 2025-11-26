@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/language-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![version](https://img.shields.io/badge/version-3.10.8-3776AB?style=flat-square&logo=python&logoColor=white)
 
-<img width="1381" height="1000" alt="Header_logo_large2" src="https://github.com/user-attachments/assets/a8365560-3891-4b35-a52e-123a1c412f59" />
+<img width="800" height="579" alt="Header_logo_large2" src="https://github.com/user-attachments/assets/a8365560-3891-4b35-a52e-123a1c412f59" />
 
 
 ## Download
