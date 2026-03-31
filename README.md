@@ -69,6 +69,4 @@ https://github.com/user-attachments/assets/bc921688-05b5-4636-9a84-bd5ca8475e53
 
 ## Disclaimer
 ・I assume no responsibility whatsoever for any damages incurred through the use of this file.
-B) Run as a standalone EXE
-Use a prebuilt .exe if provided, or build your own with PyInstaller (see Build Notes).  
 
